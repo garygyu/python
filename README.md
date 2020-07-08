@@ -1,2 +1,2 @@
 # python
-This repository contains Python code for CFD post-processing
+This repository contains Python codes for CFD post-processing
